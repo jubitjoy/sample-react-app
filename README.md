@@ -1,2 +1,3 @@
 # sample-react-app
-Created with CodeSandbox
+Created by Jubit Joy
+
